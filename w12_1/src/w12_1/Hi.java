@@ -6,6 +6,8 @@ public class Hi {
 		// TODO Auto-generated method stub
 		System.out.println("WORLD");
 		System.out.println("gh");
+		System.out.println("gh");
+
 
 	}
 
